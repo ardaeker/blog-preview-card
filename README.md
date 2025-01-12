@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor ↗](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor ↗](https://www.frontendmentor.io/solutions/blog-preview-card-0oCbhTh3T5)
 - Live Site URL: [Open on Vercel ↗](https://blog-preview-card-sigma-five.vercel.app)
 
 ## Built with
