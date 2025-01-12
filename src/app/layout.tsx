@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     'TypeScript',
     'Arda Eker',
   ],
-  metadataBase: new URL('http://localhost:3000/'),
+  metadataBase: new URL('https://blog-preview-card-sigma-five.vercel.app/'),
   openGraph: {
     title: 'Frontend Mentor - Blog Preview Card',
     description:
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: 'http://localhost:3000',
+    canonical: 'https://blog-preview-card-sigma-five.vercel.app',
   },
   icons: {
     icon: '/icon.png',
