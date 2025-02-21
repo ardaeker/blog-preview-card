@@ -14,9 +14,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Frontend Mentor - Blog Preview Card',
+  title: 'Arda Eker - Blog Preview Card',
   description:
-    'This is a solution to the Blog preview card challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
+    'A clean blog preview card with optimized metadata and mobile-friendly styling.',
   authors: [{ name: 'Arda Eker', url: 'https://github.com/ardaeker' }],
   keywords: [
     'Frontend Mentor',
@@ -31,10 +31,10 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL('https://blog-preview-card-sigma-five.vercel.app/'),
   openGraph: {
-    title: 'Frontend Mentor - Blog Preview Card',
+    title: 'Arda Eker - Blog Preview Card',
     description:
-      'This website is a solution to the Blog preview card challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
-    siteName: 'Frontend Mentor - Blog preview card solution',
+      'A clean blog preview card with optimized metadata and mobile-friendly styling.',
+    siteName: 'Arda Eker - Blog preview card solution',
     images: [
       {
         url: 'open-graph-image.png',
@@ -43,9 +43,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://blog-preview-card-sigma-five.vercel.app',
-  },
-  icons: {
-    icon: '/icon.png',
   },
 };
 
